@@ -1,2 +1,2 @@
 # sudoku
-Criação de um BackEnd em Java puro com Maven de um de lógica chamado Sudoku.
+Criação de um jogo de lógica chamado Sudoku utilizando Java puro com Maven.
