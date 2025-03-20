@@ -18,12 +18,10 @@ A simple **Sudoku Solver** implemented in Java using a **backtracking algorithm*
 ## Installation & Usage
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
+   git clone https://github.com/sofiasawczenko/sudoku.git
    cd sudoku-solver
-``
 
 2. **Compile and Run**
  ```bash
 javac SudokuSolver.java
 java SudokuSolver
-``
