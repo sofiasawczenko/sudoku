@@ -23,5 +23,5 @@ A simple **Sudoku Solver** implemented in Java using a **backtracking algorithm*
 
 2. **Compile and Run**
    ```bash
-  javac SudokuSolver.java
-  java SudokuSolver
+    javac SudokuSolver.java
+    java SudokuSolver
